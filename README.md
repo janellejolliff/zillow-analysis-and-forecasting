@@ -1,2 +1,3 @@
-# zillow_proj
-module 4 project: time series analysis with zillow house data using arima and fbprophet
+# zillow_time_series
+
+Creating custom metrics to identify and forecast top 5 zipcodes for investment properties.
